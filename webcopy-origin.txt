@@ -1,0 +1,288 @@
+Uri: https://1dvernoy.kz/
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\index.htm
+Content Type: text/html
+
+Uri: https://1dvernoy.kz/tilda-blocks-page35496827.min.css?t=1694713877
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\tilda-blocks-page35496827.min.css
+Content Type: text/css
+
+Uri: https://1dvernoy.kz/tilda-blocks-page35496827.min.js?t=1694713877
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\tilda-blocks-page35496827.min.js
+Content Type: application/javascript
+
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/css/fonts-tildasans.css
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\css\fonts-tildasans.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-animation-2.0.min.css
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\css\tilda-animation-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-cards-1.0.min.css
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\css\tilda-cards-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-cover-1.0.min.css
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\css\tilda-cover-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-forms-1.0.min.css
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\css\tilda-forms-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-slds-1.4.min.css
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\css\tilda-slds-1.4.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.eot
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\fonts\tildasans\TildaSans-Black.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.eot?
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\fonts\tildasans\TildaSans-Black-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.woff
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\fonts\tildasans\TildaSans-Black.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.woff2
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\fonts\tildasans\TildaSans-Black.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.eot
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\fonts\tildasans\TildaSans-Bold.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.eot?
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\fonts\tildasans\TildaSans-Bold-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.woff
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\fonts\tildasans\TildaSans-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.woff2
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\fonts\tildasans\TildaSans-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.eot
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\fonts\tildasans\TildaSans-Extrabold.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.eot?
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\fonts\tildasans\TildaSans-Extrabold-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.woff
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\fonts\tildasans\TildaSans-Extrabold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.woff2
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\fonts\tildasans\TildaSans-Extrabold.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.eot
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\fonts\tildasans\TildaSans-Light.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.eot?
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\fonts\tildasans\TildaSans-Light-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.woff
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\fonts\tildasans\TildaSans-Light.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.woff2
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\fonts\tildasans\TildaSans-Light.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.eot
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\fonts\tildasans\TildaSans-Medium.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.eot?
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\fonts\tildasans\TildaSans-Medium-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.woff
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\fonts\tildasans\TildaSans-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.woff2
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\fonts\tildasans\TildaSans-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.eot
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\fonts\tildasans\TildaSans-Regular.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.eot?
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\fonts\tildasans\TildaSans-Regular-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.woff
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\fonts\tildasans\TildaSans-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.woff2
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\fonts\tildasans\TildaSans-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.eot
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\fonts\tildasans\TildaSans-Semibold.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.eot?
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\fonts\tildasans\TildaSans-Semibold-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.woff
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\fonts\tildasans\TildaSans-Semibold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.woff2
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\fonts\tildasans\TildaSans-Semibold.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-VF.woff
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\fonts\tildasans\TildaSans-VF.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-VF.woff2
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\fonts\tildasans\TildaSans-VF.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/img/tildacopy.png
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\img\tildacopy.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/img/tildafavicon.ico
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\img\tildafavicon.ico
+Content Type: image/x-icon
+
+Uri: https://static.tildacdn.com/js/hammer.min.js
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\js\hammer.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/lazyload-1.3.min.js
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\js\lazyload-1.3.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-2.0.min.js
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\js\tilda-animation-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-cards-1.0.min.js
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\js\tilda-cards-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-cover-1.0.min.js
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\js\tilda-cover-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\js\tilda-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-menu-1.0.min.js
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\js\tilda-menu-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-polyfill-1.0.min.js
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\js\tilda-polyfill-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-skiplink-1.0.min.js
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\js\tilda-skiplink-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-slds-1.4.min.js
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\js\tilda-slds-1.4.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/tild3037-3662-4161-b136-646465306365/noroot.png
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\tild3037-3662-4161-b136-646465306365\noroot.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3132-6238-4665-b432-643232633861/-/resizeb/20x/17__1.png
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\tild3132-6238-4665-b432-643232633861\-\resizeb\20x\17__1.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3136-6530-4061-b833-663230616439/-/resizeb/20x/5__1.png
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\tild3136-6530-4061-b833-663230616439\-\resizeb\20x\5__1.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3234-6336-4566-b264-316639393762/-/resizeb/20x/photo.png
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\tild3234-6336-4566-b264-316639393762\-\resizeb\20x\photo.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3531-3133-4834-a235-386331336661/-/resizeb/20x/7__1.png
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\tild3531-3133-4834-a235-386331336661\-\resizeb\20x\7__1.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3531-6134-4238-a134-343164316564/-/resizeb/20x/Artboard_3.png
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\tild3531-6134-4238-a134-343164316564\-\resizeb\20x\Artboard_3.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3561-6535-4662-b764-393364653062/-/resizeb/20x/FLOR_1.png
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\tild3561-6535-4662-b764-393364653062\-\resizeb\20x\FLOR_1.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3637-6434-4136-a531-653732333031/-/resizeb/20x/1__1.png
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\tild3637-6434-4136-a531-653732333031\-\resizeb\20x\1__1.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3665-6430-4165-a631-646539386535/-/resize/20x/noroot.jpg
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\tild3665-6430-4165-a631-646539386535\-\resize\20x\noroot.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3666-3030-4564-a230-623939623231/-/resizeb/20x/2__1.png
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\tild3666-3030-4564-a230-623939623231\-\resizeb\20x\2__1.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3735-6131-4963-b235-633266333663/-/resizeb/20x/11__1.png
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\tild3735-6131-4963-b235-633266333663\-\resizeb\20x\11__1.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3738-3438-4162-b962-613961373064/-/resizeb/20x/Artboard_2.png
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\tild3738-3438-4162-b962-613961373064\-\resizeb\20x\Artboard_2.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3832-3533-4537-b035-323362636630/-/resize/20x/k215ae415.jpg
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\tild3832-3533-4537-b035-323362636630\-\resize\20x\k215ae415.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6236-3837-4061-b434-613265653966/-/resizeb/20x/7__1.png
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\tild6236-3837-4061-b434-613265653966\-\resizeb\20x\7__1.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6330-3239-4136-a666-346661396237/-/resizeb/20x/12__1.png
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\tild6330-3239-4136-a666-346661396237\-\resizeb\20x\12__1.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6536-6336-4132-a362-333135336466/-/resizeb/20x/12_BARN_1.png
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\tild6536-6336-4132-a362-333135336466\-\resizeb\20x\12_BARN_1.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6663-3634-4432-a164-306261636638/-/resizeb/20x/4___1.png
+File Name: C:\Downloaded Web Sites\1dvernoy.kz\tild6663-3634-4432-a164-306261636638\-\resizeb\20x\4___1.png
+Content Type: image/png
+
